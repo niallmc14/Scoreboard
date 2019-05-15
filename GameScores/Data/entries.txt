@@ -1,0 +1,58 @@
+insert Lorita 63.518 375.896
+insert Sharyl 100 888.623
+insert Kelly 83.608 771.004
+insert Anika 32.936 973.064
+insert Raymond 77.192 378.78
+remove 1
+insert Kayla 48.756 885.254
+insert Sonja 10 960.771
+insert Cinda 73.747 770.294
+insert Dori 89.827 475.106
+insert Rickey 47.923 634.246
+insert Amina 84.594 659.483
+insert Svetlana 56.796 472.295
+insert Adelia 47.235 232.894
+insert Willia 55.688 681.99
+insert Mathew 100 413.036
+insert Peg 93.004 822.946
+insert Scarlet 46.019 437.673
+insert Kiley 95.059 435.716
+insert Stepanie 67.579 867.795
+insert Mac 100 704.058
+insert Polly 64.653 858.235
+insert Violeta 50.925 842.845
+insert Susy 72.664 933.842
+remove 1
+insert Tiffani 10 935.429
+insert Wendell 65.161 940.046
+insert Delma 98.927 871.106
+insert Armida 72.192 599.134
+insert Joslyn 10 959.979
+remove 7
+insert Victor 59.583 685.384
+insert Gene 75.461 532.39
+insert Marcia 35.72 948.639
+remove 5
+remove 0
+insert Ila 28.93 726.098
+insert Patty 92.244 468.787
+insert Peggy 74.608 881.874
+insert Cami 55.41 834.606
+insert Richard 70.545 993.753
+insert Alexis 41.531 809.918
+remove 4
+insert Sharolyn 62.051 518.922
+insert Wava 51.967 852.011
+insert Otilia 100 807.265
+insert See 78.123 555.096
+insert Caroline 100 603.971
+insert Darin 77.043 943.388
+insert Kathryne 95.155 747.593
+insert Terese 42.665 902.507
+insert Nieves 60.656 801.045
+remove 0
+insert Sean 40.255 223.552
+insert Vanda 58.966 440.588
+insert Miriam 100 507.398
+remove 7
+insert Cordia 42.945 682.541
